@@ -11,7 +11,7 @@
 | Component | Status |
 |-----------|--------|
 | ⚙️ CPU | 🟢 Healthy |
-| 🧠 RAM | 🟡 Warning |
+| 🧠 RAM | 🟢 Healthy |
 | 💾 Disk | 🟢 Healthy |
 
 ---
@@ -20,13 +20,13 @@
 
 | Metric | Value |
 |--------|-------|
-| 🖥️ Hostname | Shuuri |
-| 💻 Windows | Windows-11-10.0.26200-SP0 |
-| ⚙️ CPU Usage | 5.7% (🟢 Healthy) |
-| 🧠 RAM Usage | 13.84 / 15.69 GB (88.2%) (🟡 Warning) |
+| 🖥️ Hostname | shuuri-remote |
+| 💻 Windows | Windows-11-10.0.22621-SP0 |
+| ⚙️ CPU Usage | 1.8% (🟢 Healthy) |
+| 🧠 RAM Usage | 6.19 / 15.87 GB (39.0%) (🟢 Healthy) |
 | 💾 Disk Usage | 4.74 / 406.78 GB (1.2%) (🟢 Healthy) |
-| ⏱️ Uptime | 0d 0h 29m |
-| 🕒 Last Update | 2026-07-26 18:08 UTC |
+| ⏱️ Uptime | 0d 3h 22m |
+| 🕒 Last Update | 2026-07-26 18:37 UTC |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Process | CPU |
 |---------|----:|
-| System Idle Process | 1475.0% |
-| Code.exe | 40.1% |
-| python3.13.exe | 26.5% |
-| Code.exe | 14.6% |
-| Code.exe | 10.1% |
+| System Idle Process | 779.1% |
+| python3.13.exe | 33.4% |
+| LibreHardwareMonitor.exe | 2.4% |
+| svchost.exe | 1.1% |
+| Code.exe | 1.0% |
 
 ---
 
