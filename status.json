@@ -2,7 +2,7 @@
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
     "last_update": "2026-07-26 18:46 UTC",
-    "cpu_percent": 2.7,
+    "cpu_percent": 1.0,
     "memory": {
         "percent": 40.3,
         "used_gb": 6.4,
@@ -21,12 +21,12 @@
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 760.2
+            "cpu": 755.0
         },
         {
             "pid": 6036,
             "name": "tailscaled.exe",
-            "cpu": 17.0
+            "cpu": 21.6
         },
         {
             "pid": 4400,
@@ -34,14 +34,14 @@
             "cpu": 7.7
         },
         {
-            "pid": 11468,
-            "name": "esrv_svc.exe",
+            "pid": 9816,
+            "name": "python3.13.exe",
             "cpu": 6.2
         },
         {
-            "pid": 4,
-            "name": "System",
-            "cpu": 1.5
+            "pid": 11468,
+            "name": "esrv_svc.exe",
+            "cpu": 6.2
         }
     ]
 }
