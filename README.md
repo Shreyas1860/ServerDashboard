@@ -6,27 +6,27 @@
 
 ---
 
+## 🩺 System Health
+
+| Component | Status |
+|-----------|--------|
+| ⚙️ CPU | 🟢 Healthy |
+| 🧠 RAM | 🟡 Warning |
+| 💾 Disk | 🟢 Healthy |
+
+---
+
 ## 📊 System Information
 
 | Metric | Value |
 |--------|-------|
-<<<<<<< HEAD
-| 🖥️ Hostname | shuuri-remote |
-| 💻 Windows | Windows-11-10.0.22621-SP0 |
-| ⚙️ CPU Usage | 4.1% |
-| 🧠 RAM Usage | 5.07 / 15.87 GB (32.0%) |
-| 💾 Disk Usage | 4.73 / 406.78 GB (1.2%) |
-| ⏱️ Uptime | 0d 0h 52m |
-| 🕒 Last Update | 2026-07-26 16:07 UTC |
-=======
-| Hostname | shuuri-remote |
-| Windows | Windows-11-10.0.22621-SP0 |
-| CPU | 4.1% |
-| RAM | 5.07 / 15.87 GB (32.0%) |
-| Disk | 4.73 / 406.78 GB (1.2%) |
-| Uptime | 0d 0h 52m |
-| Last Update | 2026-07-26 16:07 UTC |
->>>>>>> e1ce835c42095d8f74a7bf7e2c8a032ff104136f
+| 🖥️ Hostname | Shuuri |
+| 💻 Windows | Windows-11-10.0.26200-SP0 |
+| ⚙️ CPU Usage | 5.7% (🟢 Healthy) |
+| 🧠 RAM Usage | 13.84 / 15.69 GB (88.2%) (🟡 Warning) |
+| 💾 Disk Usage | 4.74 / 406.78 GB (1.2%) (🟢 Healthy) |
+| ⏱️ Uptime | 0d 0h 29m |
+| 🕒 Last Update | 2026-07-26 18:08 UTC |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Process | CPU |
 |---------|----:|
-| System Idle Process | 778.0% |
-| python3.13.exe | 30.3% |
-| tailscaled.exe | 2.2% |
-| System | 0.0% |
-|  | 0.0% |
+| System Idle Process | 1475.0% |
+| Code.exe | 40.1% |
+| python3.13.exe | 26.5% |
+| Code.exe | 14.6% |
+| Code.exe | 10.1% |
 
 ---
 

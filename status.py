@@ -7,7 +7,6 @@ from pathlib import Path
 
 import psutil
 
-
 def get_uptime():
     boot = psutil.boot_time()
     uptime = int(time.time() - boot)

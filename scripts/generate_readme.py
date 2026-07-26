@@ -43,9 +43,9 @@ readme = f"""# 🖥️ Server Dashboard
 |--------|-------|
 | 🖥️ Hostname | {status["hostname"]} |
 | 💻 Windows | {status["windows_version"]} |
-| ⚙️ CPU Usage | {status["cpu_percent"]}% |
-| 🧠 RAM Usage | {status["memory"]["used_gb"]} / {status["memory"]["total_gb"]} GB ({status["memory"]["percent"]}%) |
-| 💾 Disk Usage | {status["disk"]["used_gb"]} / {status["disk"]["total_gb"]} GB ({status["disk"]["percent"]}%) |
+| ⚙️ CPU Usage | {status["cpu_percent"]}% ({cpu_health}) |
+| 🧠 RAM Usage | {status["memory"]["used_gb"]} / {status["memory"]["total_gb"]} GB ({status["memory"]["percent"]}%) ({ram_health}) |
+| 💾 Disk Usage | {status["disk"]["used_gb"]} / {status["disk"]["total_gb"]} GB ({status["disk"]["percent"]}%) ({disk_health}) |
 | ⏱️ Uptime | {status["uptime"]["pretty"]} |
 | 🕒 Last Update | {status["last_update"]} |
 
