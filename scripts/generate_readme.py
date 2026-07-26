@@ -10,21 +10,27 @@ process_rows = "\n".join(
 
 readme = f"""# 🖥️ Server Dashboard
 
-## 🟢 Status
-
-| Metric | Value |
-|--------|-------|
-| Hostname | {status["hostname"]} |
-| Windows | {status["windows_version"]} |
-| CPU | {status["cpu_percent"]}% |
-| RAM | {status["memory"]["used_gb"]} / {status["memory"]["total_gb"]} GB ({status["memory"]["percent"]}%) |
-| Disk | {status["disk"]["used_gb"]} / {status["disk"]["total_gb"]} GB ({status["disk"]["percent"]}%) |
-| Uptime | {status["uptime"]["pretty"]} |
-| Last Update | {status["last_update"]} |
+![Status](https://img.shields.io/badge/Status-Online-brightgreen)
+![OS](https://img.shields.io/badge/Windows-Server-blue)
+![Updated](https://img.shields.io/badge/Auto-Enabled-success)
 
 ---
 
-## 🔥 Top Processes
+## 📊 System Information
+
+| Metric | Value |
+|--------|-------|
+| 🖥️ Hostname | {status["hostname"]} |
+| 💻 Windows | {status["windows_version"]} |
+| ⚙️ CPU Usage | {status["cpu_percent"]}% |
+| 🧠 RAM Usage | {status["memory"]["used_gb"]} / {status["memory"]["total_gb"]} GB ({status["memory"]["percent"]}%) |
+| 💾 Disk Usage | {status["disk"]["used_gb"]} / {status["disk"]["total_gb"]} GB ({status["disk"]["percent"]}%) |
+| ⏱️ Uptime | {status["uptime"]["pretty"]} |
+| 🕒 Last Update | {status["last_update"]} |
+
+---
+
+## 🔥 Top CPU Processes
 
 | Process | CPU |
 |---------|----:|
@@ -32,9 +38,13 @@ readme = f"""# 🖥️ Server Dashboard
 
 ---
 
-Generated automatically from the server.
+### 🤖 About
+
+This dashboard is generated automatically from a Windows server using **Python**, **Git**, and **GitHub Actions**.
+
+_Last updated automatically._
 """
 
 Path("README.md").write_text(readme, encoding="utf-8")
 
-print("README generated!")
+print("README generated successfully!")
