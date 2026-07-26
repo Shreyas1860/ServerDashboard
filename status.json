@@ -2,10 +2,10 @@
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
     "last_update": "2026-07-26 18:46 UTC",
-    "cpu_percent": 1.0,
+    "cpu_percent": 7.0,
     "memory": {
-        "percent": 40.3,
-        "used_gb": 6.4,
+        "percent": 40.6,
+        "used_gb": 6.44,
         "total_gb": 15.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 12658,
-        "pretty": "0d 3h 30m"
+        "seconds": 12660,
+        "pretty": "0d 3h 31m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 755.0
-        },
-        {
-            "pid": 6036,
-            "name": "tailscaled.exe",
-            "cpu": 21.6
-        },
-        {
-            "pid": 4400,
-            "name": "MsMpEng.exe",
-            "cpu": 7.7
-        },
-        {
-            "pid": 9816,
-            "name": "python3.13.exe",
-            "cpu": 6.2
+            "cpu": 747.5
         },
         {
             "pid": 11468,
             "name": "esrv_svc.exe",
-            "cpu": 6.2
+            "cpu": 16.9
+        },
+        {
+            "pid": 4400,
+            "name": "MsMpEng.exe",
+            "cpu": 10.8
+        },
+        {
+            "pid": 6036,
+            "name": "tailscaled.exe",
+            "cpu": 10.8
+        },
+        {
+            "pid": 1484,
+            "name": "dwm.exe",
+            "cpu": 1.5
         }
     ]
 }
