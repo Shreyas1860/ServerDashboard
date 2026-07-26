@@ -3,16 +3,37 @@ from pathlib import Path
 
 status = json.loads(Path("status.json").read_text(encoding="utf-8"))
 
+def health(value, warning, critical):
+    if value >= critical:
+        return "🔴 Critical"
+    elif value >= warning:
+        return "🟡 Warning"
+    return "🟢 Healthy"
+
 process_rows = "\n".join(
     f"| {p['name']} | {p['cpu']}% |"
     for p in status["top_processes"]
 )
+
+cpu_health = health(status["cpu_percent"], 50, 80)
+ram_health = health(status["memory"]["percent"], 70, 90)
+disk_health = health(status["disk"]["percent"], 70, 90)
 
 readme = f"""# 🖥️ Server Dashboard
 
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen)
 ![OS](https://img.shields.io/badge/Windows-Server-blue)
 ![Updated](https://img.shields.io/badge/Auto-Enabled-success)
+
+---
+
+## 🩺 System Health
+
+| Component | Status |
+|-----------|--------|
+| ⚙️ CPU | {cpu_health} |
+| 🧠 RAM | {ram_health} |
+| 💾 Disk | {disk_health} |
 
 ---
 
