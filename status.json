@@ -2,7 +2,7 @@
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
     "last_update": "2026-07-26 18:45 UTC",
-    "cpu_percent": 3.5,
+    "cpu_percent": 2.9,
     "memory": {
         "percent": 40.2,
         "used_gb": 6.38,
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 12624,
+        "seconds": 12625,
         "pretty": "0d 3h 30m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 781.4
+            "cpu": 771.6
         },
         {
             "pid": 6036,
             "name": "tailscaled.exe",
-            "cpu": 15.4
-        },
-        {
-            "pid": 4,
-            "name": "System",
-            "cpu": 1.5
-        },
-        {
-            "pid": 688,
-            "name": "LibreHardwareMonitor.exe",
-            "cpu": 1.5
+            "cpu": 13.9
         },
         {
             "pid": 1484,
             "name": "dwm.exe",
-            "cpu": 1.5
+            "cpu": 4.6
+        },
+        {
+            "pid": 4400,
+            "name": "MsMpEng.exe",
+            "cpu": 4.6
+        },
+        {
+            "pid": 15688,
+            "name": "mmc.exe",
+            "cpu": 4.6
         }
     ]
 }
