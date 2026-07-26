@@ -10,6 +10,7 @@
 
 | Metric | Value |
 |--------|-------|
+<<<<<<< HEAD
 | 🖥️ Hostname | shuuri-remote |
 | 💻 Windows | Windows-11-10.0.22621-SP0 |
 | ⚙️ CPU Usage | 4.1% |
@@ -17,6 +18,15 @@
 | 💾 Disk Usage | 4.73 / 406.78 GB (1.2%) |
 | ⏱️ Uptime | 0d 0h 52m |
 | 🕒 Last Update | 2026-07-26 16:07 UTC |
+=======
+| Hostname | shuuri-remote |
+| Windows | Windows-11-10.0.22621-SP0 |
+| CPU | 4.1% |
+| RAM | 5.07 / 15.87 GB (32.0%) |
+| Disk | 4.73 / 406.78 GB (1.2%) |
+| Uptime | 0d 0h 52m |
+| Last Update | 2026-07-26 16:07 UTC |
+>>>>>>> e1ce835c42095d8f74a7bf7e2c8a032ff104136f
 
 ---
 
