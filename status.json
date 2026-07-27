@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
-    "last_update": "2026-07-27 05:37 UTC",
-    "cpu_percent": 10.5,
+    "last_update": "2026-07-27 06:35 UTC",
+    "cpu_percent": 0.8,
     "memory": {
-        "percent": 45.7,
-        "used_gb": 7.25,
+        "percent": 34.9,
+        "used_gb": 5.54,
         "total_gb": 15.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 51741,
-        "pretty": "0d 14h 22m"
+        "seconds": 55227,
+        "pretty": "0d 15h 20m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 717.7
+            "cpu": 794.2
         },
         {
-            "pid": 11056,
+            "pid": 688,
+            "name": "LibreHardwareMonitor.exe",
+            "cpu": 1.6
+        },
+        {
+            "pid": 5292,
             "name": "python3.13.exe",
-            "cpu": 36.2
-        },
-        {
-            "pid": 11468,
-            "name": "esrv_svc.exe",
-            "cpu": 16.6
-        },
-        {
-            "pid": 4400,
-            "name": "MsMpEng.exe",
-            "cpu": 10.7
+            "cpu": 1.5
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 6.4
+            "cpu": 0.0
+        },
+        {
+            "pid": 108,
+            "name": "",
+            "cpu": 0.0
         }
     ]
 }
