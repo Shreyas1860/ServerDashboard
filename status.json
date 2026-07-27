@@ -2,10 +2,10 @@
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
     "last_update": "2026-07-27 05:35 UTC",
-    "cpu_percent": 8.0,
+    "cpu_percent": 7.9,
     "memory": {
-        "percent": 37.5,
-        "used_gb": 5.95,
+        "percent": 37.3,
+        "used_gb": 5.92,
         "total_gb": 15.87
     },
     "disk": {
@@ -21,27 +21,27 @@
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 744.5
-        },
-        {
-            "pid": 11468,
-            "name": "esrv_svc.exe",
-            "cpu": 9.3
+            "cpu": 760.1
         },
         {
             "pid": 4400,
             "name": "MsMpEng.exe",
-            "cpu": 7.7
+            "cpu": 10.7
         },
         {
-            "pid": 4,
-            "name": "System",
-            "cpu": 4.6
+            "pid": 11468,
+            "name": "esrv_svc.exe",
+            "cpu": 9.2
         },
         {
             "pid": 6036,
             "name": "tailscaled.exe",
             "cpu": 4.6
+        },
+        {
+            "pid": 4,
+            "name": "System",
+            "cpu": 3.1
         }
     ]
 }
