@@ -22,11 +22,11 @@
 |--------|-------|
 | 🖥️ Hostname | shuuri-remote |
 | 💻 Windows | Windows-11-10.0.22621-SP0 |
-| ⚙️ CPU Usage | 0.2% (🟢 Healthy) |
-| 🧠 RAM Usage | 7.82 / 15.87 GB (49.2%) (🟢 Healthy) |
+| ⚙️ CPU Usage | 0.4% (🟢 Healthy) |
+| 🧠 RAM Usage | 7.84 / 15.87 GB (49.4%) (🟢 Healthy) |
 | 💾 Disk Usage | 4.74 / 406.78 GB (1.2%) (🟢 Healthy) |
-| ⏱️ Uptime | 1d 16h 20m |
-| 🕒 Last Update | 2026-07-28 07:35 UTC |
+| ⏱️ Uptime | 1d 17h 20m |
+| 🕒 Last Update | 2026-07-28 08:35 UTC |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Process | CPU |
 |---------|----:|
-| System Idle Process | 799.4% |
-| SgrmBroker.exe | 1.5% |
-| System | 0.0% |
+| System Idle Process | 788.2% |
+| System | 1.5% |
+| LibreHardwareMonitor.exe | 1.5% |
+| python3.13.exe | 1.5% |
 |  | 0.0% |
-| Registry | 0.0% |
 
 ---
 
