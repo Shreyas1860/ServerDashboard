@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
-    "last_update": "2026-07-28 09:35 UTC",
-    "cpu_percent": 1.2,
+    "last_update": "2026-07-28 10:35 UTC",
+    "cpu_percent": 0.2,
     "memory": {
         "percent": 49.5,
-        "used_gb": 7.86,
+        "used_gb": 7.85,
         "total_gb": 15.87
     },
     "disk": {
@@ -14,18 +14,18 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 152426,
-        "pretty": "1d 18h 20m"
+        "seconds": 156025,
+        "pretty": "1d 19h 20m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 803.3
+            "cpu": 801.3
         },
         {
-            "pid": 12584,
-            "name": "vmmemWSL",
+            "pid": 16552,
+            "name": "python3.13.exe",
             "cpu": 1.5
         },
         {
