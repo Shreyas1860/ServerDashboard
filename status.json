@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
-    "last_update": "2026-07-28 14:35 UTC",
-    "cpu_percent": 1.2,
+    "last_update": "2026-07-28 15:35 UTC",
+    "cpu_percent": 0.2,
     "memory": {
-        "percent": 49.7,
-        "used_gb": 7.89,
+        "percent": 51.3,
+        "used_gb": 8.14,
         "total_gb": 15.87
     },
     "disk": {
@@ -14,23 +14,18 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 170426,
-        "pretty": "1d 23h 20m"
+        "seconds": 174026,
+        "pretty": "2d 0h 20m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 797.4
+            "cpu": 801.5
         },
         {
-            "pid": 12056,
-            "name": "unsecapp.exe",
-            "cpu": 1.5
-        },
-        {
-            "pid": 14784,
-            "name": "com.docker.backend.exe",
+            "pid": 4400,
+            "name": "MsMpEng.exe",
             "cpu": 1.5
         },
         {
@@ -41,6 +36,11 @@
         {
             "pid": 108,
             "name": "",
+            "cpu": 0.0
+        },
+        {
+            "pid": 156,
+            "name": "Registry",
             "cpu": 0.0
         }
     ]
