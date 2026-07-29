@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
-    "last_update": "2026-07-29 03:35 UTC",
-    "cpu_percent": 0.4,
+    "last_update": "2026-07-29 04:35 UTC",
+    "cpu_percent": 0.8,
     "memory": {
         "percent": 51.2,
-        "used_gb": 8.12,
+        "used_gb": 8.13,
         "total_gb": 15.87
     },
     "disk": {
@@ -14,19 +14,14 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 217226,
-        "pretty": "2d 12h 20m"
+        "seconds": 220825,
+        "pretty": "2d 13h 20m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 804.9
-        },
-        {
-            "pid": 12584,
-            "name": "vmmemWSL",
-            "cpu": 1.5
+            "cpu": 806.0
         },
         {
             "pid": 4,
@@ -41,6 +36,11 @@
         {
             "pid": 156,
             "name": "Registry",
+            "cpu": 0.0
+        },
+        {
+            "pid": 272,
+            "name": "dllhost.exe",
             "cpu": 0.0
         }
     ]
