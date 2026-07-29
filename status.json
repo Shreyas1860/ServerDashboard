@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
-    "last_update": "2026-07-29 07:35 UTC",
-    "cpu_percent": 0.2,
+    "last_update": "2026-07-29 08:35 UTC",
+    "cpu_percent": 0.4,
     "memory": {
-        "percent": 51.3,
-        "used_gb": 8.14,
+        "percent": 49.1,
+        "used_gb": 7.79,
         "total_gb": 15.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 231626,
-        "pretty": "2d 16h 20m"
+        "seconds": 235226,
+        "pretty": "2d 17h 20m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 786.5
+            "cpu": 799.1
         },
         {
-            "pid": 2176,
-            "name": "svchost.exe",
+            "pid": 12584,
+            "name": "vmmemWSL",
             "cpu": 3.1
         },
         {
             "pid": 4400,
             "name": "MsMpEng.exe",
-            "cpu": 3.1
+            "cpu": 1.5
         },
         {
-            "pid": 6036,
-            "name": "tailscaled.exe",
-            "cpu": 3.1
+            "pid": 4,
+            "name": "System",
+            "cpu": 0.0
         },
         {
-            "pid": 6864,
-            "name": "NisSrv.exe",
-            "cpu": 3.1
+            "pid": 108,
+            "name": "",
+            "cpu": 0.0
         }
     ]
 }
