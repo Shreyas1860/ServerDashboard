@@ -1,8 +1,8 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.22621-SP0",
-    "last_update": "2026-07-30 06:35 UTC",
-    "cpu_percent": 1.0,
+    "last_update": "2026-07-30 07:35 UTC",
+    "cpu_percent": 0.4,
     "memory": {
         "percent": 49.9,
         "used_gb": 7.92,
@@ -14,23 +14,18 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 314426,
-        "pretty": "3d 15h 20m"
+        "seconds": 318026,
+        "pretty": "3d 16h 20m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 800.3
+            "cpu": 812.7
         },
         {
-            "pid": 9800,
-            "name": "tailscale-ipn.exe",
-            "cpu": 1.5
-        },
-        {
-            "pid": 11112,
-            "name": "python3.13.exe",
+            "pid": 16808,
+            "name": "msrdc.exe",
             "cpu": 1.5
         },
         {
@@ -41,6 +36,11 @@
         {
             "pid": 108,
             "name": "",
+            "cpu": 0.0
+        },
+        {
+            "pid": 156,
+            "name": "Registry",
             "cpu": 0.0
         }
     ]
