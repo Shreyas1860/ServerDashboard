@@ -22,11 +22,11 @@
 |--------|-------|
 | 🖥️ Hostname | shuuri-remote |
 | 💻 Windows | Windows-11-10.0.22621-SP0 |
-| ⚙️ CPU Usage | 0.6% (🟢 Healthy) |
-| 🧠 RAM Usage | 7.84 / 15.87 GB (49.4%) (🟢 Healthy) |
+| ⚙️ CPU Usage | 1.2% (🟢 Healthy) |
+| 🧠 RAM Usage | 7.83 / 15.87 GB (49.3%) (🟢 Healthy) |
 | 💾 Disk Usage | 4.74 / 406.78 GB (1.2%) (🟢 Healthy) |
-| ⏱️ Uptime | 3d 9h 20m |
-| 🕒 Last Update | 2026-07-30 00:35 UTC |
+| ⏱️ Uptime | 3d 10h 20m |
+| 🕒 Last Update | 2026-07-30 01:35 UTC |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Process | CPU |
 |---------|----:|
-| System Idle Process | 785.7% |
-| LibreHardwareMonitor.exe | 1.5% |
-| python3.13.exe | 1.5% |
+| System Idle Process | 801.5% |
+| vmmemWSL | 1.5% |
 | System | 0.0% |
 |  | 0.0% |
+| Registry | 0.0% |
 
 ---
 
