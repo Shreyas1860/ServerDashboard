@@ -22,11 +22,11 @@
 |--------|-------|
 | 🖥️ Hostname | shuuri-remote |
 | 💻 Windows | Windows-11-10.0.26200-SP0 |
-| ⚙️ CPU Usage | 23.0% (🟢 Healthy) |
-| 🧠 RAM Usage | 16.36 / 31.87 GB (51.3%) (🟢 Healthy) |
+| ⚙️ CPU Usage | 28.7% (🟢 Healthy) |
+| 🧠 RAM Usage | 16.4 / 31.87 GB (51.5%) (🟢 Healthy) |
 | 💾 Disk Usage | 6.28 / 406.78 GB (1.5%) (🟢 Healthy) |
-| ⏱️ Uptime | 3d 19h 1m |
-| 🕒 Last Update | 2026-08-04 03:34 UTC |
+| ⏱️ Uptime | 3d 20h 1m |
+| 🕒 Last Update | 2026-08-04 04:34 UTC |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Process | CPU |
 |---------|----:|
-| System Idle Process | 547.8% |
-| System | 102.4% |
-| svchost.exe | 29.5% |
-| svchost.exe | 29.4% |
-| esrv_svc.exe | 9.3% |
+| System Idle Process | 620.7% |
+| System | 63.6% |
+| svchost.exe | 23.3% |
+| svchost.exe | 20.2% |
+| valheim_server.exe | 17.0% |
 
 ---
 
