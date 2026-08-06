@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-06 18:34 UTC",
-    "cpu_percent": 39.4,
+    "last_update": "2026-08-06 19:34 UTC",
+    "cpu_percent": 66.6,
     "memory": {
-        "percent": 55.8,
-        "used_gb": 17.78,
+        "percent": 62.6,
+        "used_gb": 19.95,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 554501,
-        "pretty": "6d 10h 1m"
+        "seconds": 558101,
+        "pretty": "6d 11h 1m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 499.1
+            "cpu": 343.3
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 107.0
+            "cpu": 114.8
+        },
+        {
+            "pid": 20056,
+            "name": "MsMpEng.exe",
+            "cpu": 90.9
+        },
+        {
+            "pid": 20516,
+            "name": "Code.exe",
+            "cpu": 46.9
         },
         {
             "pid": 2980,
             "name": "svchost.exe",
-            "cpu": 31.0
-        },
-        {
-            "pid": 19940,
-            "name": "valheim_server.exe",
-            "cpu": 16.9
-        },
-        {
-            "pid": 3660,
-            "name": "Docker Desktop.exe",
-            "cpu": 15.5
+            "cpu": 36.7
         }
     ]
 }
