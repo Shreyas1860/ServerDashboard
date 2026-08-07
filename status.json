@@ -1,47 +1,47 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-07 21:34 UTC",
-    "cpu_percent": 43.0,
+    "last_update": "2026-08-07 22:34 UTC",
+    "cpu_percent": 34.2,
     "memory": {
-        "percent": 66.9,
-        "used_gb": 21.33,
+        "percent": 64.7,
+        "used_gb": 20.61,
         "total_gb": 31.87
     },
     "disk": {
         "percent": 1.5,
-        "used_gb": 6.18,
+        "used_gb": 6.19,
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 651701,
-        "pretty": "7d 13h 1m"
+        "seconds": 655301,
+        "pretty": "7d 14h 1m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 513.9
+            "cpu": 502.5
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 85.1
-        },
-        {
-            "pid": 5372,
-            "name": "vmmemWSL",
-            "cpu": 52.6
+            "cpu": 118.7
         },
         {
             "pid": 2980,
             "name": "svchost.exe",
-            "cpu": 30.9
+            "cpu": 49.4
         },
         {
             "pid": 2428,
             "name": "svchost.exe",
-            "cpu": 17.0
+            "cpu": 30.8
+        },
+        {
+            "pid": 19940,
+            "name": "valheim_server.exe",
+            "cpu": 7.7
         }
     ]
 }
