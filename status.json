@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-10 06:34 UTC",
-    "cpu_percent": 44.1,
+    "last_update": "2026-08-10 06:59 UTC",
+    "cpu_percent": 43.4,
     "memory": {
-        "percent": 79.9,
-        "used_gb": 25.47,
+        "percent": 13.2,
+        "used_gb": 4.21,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 856901,
-        "pretty": "9d 22h 1m"
+        "seconds": 36,
+        "pretty": "0d 0h 0m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 542.2
+            "cpu": 292.0
         },
         {
-            "pid": 4,
-            "name": "System",
-            "cpu": 113.0
+            "pid": 14796,
+            "name": "LenovoVantage-(LenovoGamingSystemAddin).exe",
+            "cpu": 69.6
         },
         {
-            "pid": 2980,
+            "pid": 4860,
+            "name": "DSAService.exe",
+            "cpu": 51.2
+        },
+        {
+            "pid": 5328,
+            "name": "MsMpEng.exe",
+            "cpu": 49.6
+        },
+        {
+            "pid": 3048,
             "name": "svchost.exe",
-            "cpu": 35.6
-        },
-        {
-            "pid": 18516,
-            "name": "java.exe",
-            "cpu": 17.0
-        },
-        {
-            "pid": 2428,
-            "name": "svchost.exe",
-            "cpu": 13.9
+            "cpu": 35.7
         }
     ]
 }
