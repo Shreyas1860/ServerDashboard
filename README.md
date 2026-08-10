@@ -11,7 +11,7 @@
 | Component | Status |
 |-----------|--------|
 | ⚙️ CPU | 🟢 Healthy |
-| 🧠 RAM | 🟡 Warning |
+| 🧠 RAM | 🟢 Healthy |
 | 💾 Disk | 🟢 Healthy |
 
 ---
@@ -22,11 +22,11 @@
 |--------|-------|
 | 🖥️ Hostname | shuuri-remote |
 | 💻 Windows | Windows-11-10.0.26200-SP0 |
-| ⚙️ CPU Usage | 44.1% (🟢 Healthy) |
-| 🧠 RAM Usage | 25.47 / 31.87 GB (79.9%) (🟡 Warning) |
+| ⚙️ CPU Usage | 43.4% (🟢 Healthy) |
+| 🧠 RAM Usage | 4.21 / 31.87 GB (13.2%) (🟢 Healthy) |
 | 💾 Disk Usage | 6.19 / 406.78 GB (1.5%) (🟢 Healthy) |
-| ⏱️ Uptime | 9d 22h 1m |
-| 🕒 Last Update | 2026-08-10 06:34 UTC |
+| ⏱️ Uptime | 0d 0h 0m |
+| 🕒 Last Update | 2026-08-10 06:59 UTC |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Process | CPU |
 |---------|----:|
-| System Idle Process | 542.2% |
-| System | 113.0% |
-| svchost.exe | 35.6% |
-| java.exe | 17.0% |
-| svchost.exe | 13.9% |
+| System Idle Process | 292.0% |
+| LenovoVantage-(LenovoGamingSystemAddin).exe | 69.6% |
+| DSAService.exe | 51.2% |
+| MsMpEng.exe | 49.6% |
+| svchost.exe | 35.7% |
 
 ---
 
