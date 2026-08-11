@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-11 21:59 UTC",
-    "cpu_percent": 27.2,
+    "last_update": "2026-08-11 22:48 UTC",
+    "cpu_percent": 99.2,
     "memory": {
-        "percent": 48.9,
-        "used_gb": 15.59,
+        "percent": 9.5,
+        "used_gb": 3.02,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 140385,
-        "pretty": "1d 14h 59m"
+        "seconds": 43,
+        "pretty": "0d 0h 0m"
     },
     "top_processes": [
         {
-            "pid": 0,
-            "name": "System Idle Process",
-            "cpu": 515.2
+            "pid": 5128,
+            "name": "DSAService.exe",
+            "cpu": 277.5
         },
         {
-            "pid": 4,
-            "name": "System",
-            "cpu": 65.2
+            "pid": 8640,
+            "name": "powershell.exe",
+            "cpu": 140.4
         },
         {
-            "pid": 6556,
+            "pid": 4280,
+            "name": "TiWorker.exe",
+            "cpu": 89.6
+        },
+        {
+            "pid": 5496,
+            "name": "MsMpEng.exe",
+            "cpu": 76.5
+        },
+        {
+            "pid": 3448,
             "name": "svchost.exe",
-            "cpu": 52.6
-        },
-        {
-            "pid": 3048,
-            "name": "svchost.exe",
-            "cpu": 40.3
-        },
-        {
-            "pid": 2632,
-            "name": "svchost.exe",
-            "cpu": 21.7
+            "cpu": 59.3
         }
     ]
 }
