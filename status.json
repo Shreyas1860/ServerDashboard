@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-14 04:50 UTC",
-    "cpu_percent": 34.0,
+    "last_update": "2026-08-14 05:50 UTC",
+    "cpu_percent": 30.8,
     "memory": {
-        "percent": 41.6,
-        "used_gb": 13.26,
+        "percent": 41.9,
+        "used_gb": 13.34,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 194410,
-        "pretty": "2d 6h 0m"
+        "seconds": 198010,
+        "pretty": "2d 7h 0m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 524.4
+            "cpu": 580.8
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 69.8
+            "cpu": 55.5
         },
         {
             "pid": 2692,
             "name": "svchost.exe",
-            "cpu": 27.9
+            "cpu": 38.5
         },
         {
             "pid": 18212,
             "name": "vmmemWSL",
-            "cpu": 21.6
+            "cpu": 17.0
         },
         {
-            "pid": 21320,
-            "name": "WaaSMedicAgent.exe",
-            "cpu": 20.1
+            "pid": 7448,
+            "name": "tailscaled.exe",
+            "cpu": 15.4
         }
     ]
 }
