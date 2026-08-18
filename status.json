@@ -1,47 +1,47 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-18 08:50 UTC",
-    "cpu_percent": 32.1,
+    "last_update": "2026-08-18 09:50 UTC",
+    "cpu_percent": 47.5,
     "memory": {
-        "percent": 50.4,
-        "used_gb": 16.05,
+        "percent": 55.4,
+        "used_gb": 17.66,
         "total_gb": 31.87
     },
     "disk": {
-        "percent": 1.8,
-        "used_gb": 7.17,
+        "percent": 1.5,
+        "used_gb": 6.19,
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 554410,
-        "pretty": "6d 10h 0m"
+        "seconds": 558011,
+        "pretty": "6d 11h 0m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 494.4
+            "cpu": 394.1
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 116.3
+            "cpu": 122.4
+        },
+        {
+            "pid": 5544,
+            "name": "CodeSetup-stable-a5b500951314efd502d07465bd138dfbd714a960.tmp",
+            "cpu": 92.6
+        },
+        {
+            "pid": 4928,
+            "name": "MsMpEng.exe",
+            "cpu": 37.0
         },
         {
             "pid": 2692,
             "name": "svchost.exe",
-            "cpu": 38.7
-        },
-        {
-            "pid": 2328,
-            "name": "svchost.exe",
-            "cpu": 21.7
-        },
-        {
-            "pid": 17844,
-            "name": "Docker Desktop.exe",
-            "cpu": 18.5
+            "cpu": 24.8
         }
     ]
 }
