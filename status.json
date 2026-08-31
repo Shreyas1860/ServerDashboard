@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-31 17:12 UTC",
-    "cpu_percent": 21.8,
+    "last_update": "2026-08-31 18:12 UTC",
+    "cpu_percent": 21.2,
     "memory": {
-        "percent": 52.5,
-        "used_gb": 16.72,
+        "percent": 47.9,
+        "used_gb": 15.26,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 28815,
-        "pretty": "0d 8h 0m"
+        "seconds": 32415,
+        "pretty": "0d 9h 0m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 677.1
+            "cpu": 674.4
         },
         {
             "pid": 3020,
             "name": "svchost.exe",
-            "cpu": 24.6
-        },
-        {
-            "pid": 2516,
-            "name": "svchost.exe",
-            "cpu": 13.8
+            "cpu": 24.8
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 12.3
+            "cpu": 23.3
         },
         {
             "pid": 8212,
             "name": "qemu-system-x86_64.exe",
-            "cpu": 12.3
+            "cpu": 20.1
+        },
+        {
+            "pid": 7296,
+            "name": "tailscaled.exe",
+            "cpu": 6.2
         }
     ]
 }
