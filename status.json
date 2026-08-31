@@ -1,47 +1,47 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-31 05:26 UTC",
-    "cpu_percent": 74.4,
+    "last_update": "2026-08-31 06:26 UTC",
+    "cpu_percent": 34.7,
     "memory": {
-        "percent": 45.5,
-        "used_gb": 14.5,
+        "percent": 48.9,
+        "used_gb": 15.59,
         "total_gb": 31.87
     },
     "disk": {
-        "percent": 2.1,
-        "used_gb": 8.63,
+        "percent": 2.2,
+        "used_gb": 8.75,
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 406762,
-        "pretty": "4d 16h 59m"
+        "seconds": 410361,
+        "pretty": "4d 17h 59m"
     },
     "top_processes": [
         {
-            "pid": 4,
-            "name": "System",
-            "cpu": 139.7
-        },
-        {
-            "pid": 9236,
-            "name": "ConfigServiceAgent.exe",
-            "cpu": 139.4
-        },
-        {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 129.9
+            "cpu": 493.1
         },
         {
-            "pid": 3904,
-            "name": "LogonUI.exe",
-            "cpu": 99.8
+            "pid": 4,
+            "name": "System",
+            "cpu": 86.9
         },
         {
-            "pid": 604,
-            "name": "explorer.exe",
-            "cpu": 99.7
+            "pid": 23240,
+            "name": "studio64.exe",
+            "cpu": 55.3
+        },
+        {
+            "pid": 2948,
+            "name": "svchost.exe",
+            "cpu": 24.8
+        },
+        {
+            "pid": 2408,
+            "name": "svchost.exe",
+            "cpu": 21.7
         }
     ]
 }
