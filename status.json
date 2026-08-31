@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-08-31 16:12 UTC",
-    "cpu_percent": 23.5,
+    "last_update": "2026-08-31 17:12 UTC",
+    "cpu_percent": 21.8,
     "memory": {
-        "percent": 57.3,
-        "used_gb": 18.26,
+        "percent": 52.5,
+        "used_gb": 16.72,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 25216,
-        "pretty": "0d 7h 0m"
+        "seconds": 28815,
+        "pretty": "0d 8h 0m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 705.2
-        },
-        {
-            "pid": 8212,
-            "name": "qemu-system-x86_64.exe",
-            "cpu": 23.2
-        },
-        {
-            "pid": 4,
-            "name": "System",
-            "cpu": 14.0
+            "cpu": 677.1
         },
         {
             "pid": 3020,
             "name": "svchost.exe",
-            "cpu": 10.9
+            "cpu": 24.6
         },
         {
             "pid": 2516,
             "name": "svchost.exe",
-            "cpu": 9.3
+            "cpu": 13.8
+        },
+        {
+            "pid": 4,
+            "name": "System",
+            "cpu": 12.3
+        },
+        {
+            "pid": 8212,
+            "name": "qemu-system-x86_64.exe",
+            "cpu": 12.3
         }
     ]
 }
