@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-09-05 20:23 UTC",
-    "cpu_percent": 23.1,
+    "last_update": "2026-09-05 21:23 UTC",
+    "cpu_percent": 25.7,
     "memory": {
-        "percent": 21.4,
-        "used_gb": 6.82,
+        "percent": 21.5,
+        "used_gb": 6.84,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,24 +14,24 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 46818,
-        "pretty": "0d 13h 0m"
+        "seconds": 50417,
+        "pretty": "0d 14h 0m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 671.0
+            "cpu": 661.2
         },
         {
             "pid": 2960,
             "name": "svchost.exe",
-            "cpu": 41.8
+            "cpu": 37.3
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 23.2
+            "cpu": 24.9
         },
         {
             "pid": 2552,
@@ -39,9 +39,9 @@
             "cpu": 9.3
         },
         {
-            "pid": 7788,
-            "name": "tailscaled.exe",
-            "cpu": 7.7
+            "pid": 4800,
+            "name": "LenovoVantageService.exe",
+            "cpu": 6.2
         }
     ]
 }
