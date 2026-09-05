@@ -22,11 +22,11 @@
 |--------|-------|
 | 🖥️ Hostname | shuuri-remote |
 | 💻 Windows | Windows-11-10.0.26200-SP0 |
-| ⚙️ CPU Usage | 23.1% (🟢 Healthy) |
-| 🧠 RAM Usage | 6.82 / 31.87 GB (21.4%) (🟢 Healthy) |
+| ⚙️ CPU Usage | 25.7% (🟢 Healthy) |
+| 🧠 RAM Usage | 6.84 / 31.87 GB (21.5%) (🟢 Healthy) |
 | 💾 Disk Usage | 13.35 / 406.78 GB (3.3%) (🟢 Healthy) |
-| ⏱️ Uptime | 0d 13h 0m |
-| 🕒 Last Update | 2026-09-05 20:23 UTC |
+| ⏱️ Uptime | 0d 14h 0m |
+| 🕒 Last Update | 2026-09-05 21:23 UTC |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Process | CPU |
 |---------|----:|
-| System Idle Process | 671.0% |
-| svchost.exe | 41.8% |
-| System | 23.2% |
+| System Idle Process | 661.2% |
+| svchost.exe | 37.3% |
+| System | 24.9% |
 | svchost.exe | 9.3% |
-| tailscaled.exe | 7.7% |
+| LenovoVantageService.exe | 6.2% |
 
 ---
 
