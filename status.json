@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-09-07 19:23 UTC",
-    "cpu_percent": 20.3,
+    "last_update": "2026-09-07 20:23 UTC",
+    "cpu_percent": 24.1,
     "memory": {
-        "percent": 25.5,
-        "used_gb": 8.13,
+        "percent": 25.4,
+        "used_gb": 8.09,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 216016,
-        "pretty": "2d 12h 0m"
+        "seconds": 219615,
+        "pretty": "2d 13h 0m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 679.3
-        },
-        {
-            "pid": 2960,
-            "name": "svchost.exe",
-            "cpu": 29.5
+            "cpu": 686.1
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 28.0
+            "cpu": 44.7
         },
         {
-            "pid": 2328,
+            "pid": 2960,
             "name": "svchost.exe",
-            "cpu": 4.7
+            "cpu": 18.5
+        },
+        {
+            "pid": 18164,
+            "name": "ngrok.exe",
+            "cpu": 9.2
         },
         {
             "pid": 2552,
             "name": "svchost.exe",
-            "cpu": 4.7
+            "cpu": 7.7
         }
     ]
 }
