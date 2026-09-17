@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-09-17 12:05 UTC",
-    "cpu_percent": 32.5,
+    "last_update": "2026-09-17 13:05 UTC",
+    "cpu_percent": 35.8,
     "memory": {
-        "percent": 31.6,
-        "used_gb": 10.08,
+        "percent": 31.8,
+        "used_gb": 10.14,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 53972,
-        "pretty": "0d 14h 59m"
+        "seconds": 57572,
+        "pretty": "0d 15h 59m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 610.2
-        },
-        {
-            "pid": 2700,
-            "name": "svchost.exe",
-            "cpu": 47.7
+            "cpu": 647.0
         },
         {
             "pid": 2376,
             "name": "svchost.exe",
-            "cpu": 38.5
+            "cpu": 33.1
+        },
+        {
+            "pid": 2700,
+            "name": "svchost.exe",
+            "cpu": 33.1
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 26.3
+            "cpu": 15.2
         },
         {
-            "pid": 11176,
-            "name": "explorer.exe",
-            "cpu": 7.6
+            "pid": 1520,
+            "name": "svchost.exe",
+            "cpu": 9.0
         }
     ]
 }
