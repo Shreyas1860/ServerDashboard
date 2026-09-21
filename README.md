@@ -22,11 +22,11 @@
 |--------|-------|
 | 🖥️ Hostname | shuuri-remote |
 | 💻 Windows | Windows-11-10.0.26200-SP0 |
-| ⚙️ CPU Usage | 27.0% (🟢 Healthy) |
-| 🧠 RAM Usage | 14.07 / 31.87 GB (44.1%) (🟢 Healthy) |
+| ⚙️ CPU Usage | 27.8% (🟢 Healthy) |
+| 🧠 RAM Usage | 14.1 / 31.87 GB (44.2%) (🟢 Healthy) |
 | 💾 Disk Usage | 11.62 / 406.78 GB (2.9%) (🟢 Healthy) |
-| ⏱️ Uptime | 4d 11h 59m |
-| 🕒 Last Update | 2026-09-21 09:05 UTC |
+| ⏱️ Uptime | 4d 12h 59m |
+| 🕒 Last Update | 2026-09-21 10:05 UTC |
 
 ---
 
@@ -34,11 +34,11 @@
 
 | Process | CPU |
 |---------|----:|
-| System Idle Process | 585.4% |
-| System | 77.4% |
-| svchost.exe | 29.4% |
-| svchost.exe | 20.1% |
-| vmmemWSL | 15.4% |
+| System Idle Process | 549.2% |
+| System | 93.9% |
+| svchost.exe | 49.3% |
+| svchost.exe | 18.5% |
+| svchost.exe | 10.8% |
 
 ---
 
