@@ -1,11 +1,11 @@
 {
     "hostname": "shuuri-remote",
     "windows_version": "Windows-11-10.0.26200-SP0",
-    "last_update": "2026-09-22 21:05 UTC",
-    "cpu_percent": 34.6,
+    "last_update": "2026-09-22 22:05 UTC",
+    "cpu_percent": 35.9,
     "memory": {
-        "percent": 48.1,
-        "used_gb": 15.33,
+        "percent": 48.3,
+        "used_gb": 15.39,
         "total_gb": 31.87
     },
     "disk": {
@@ -14,34 +14,34 @@
         "total_gb": 406.78
     },
     "uptime": {
-        "seconds": 518372,
-        "pretty": "5d 23h 59m"
+        "seconds": 521973,
+        "pretty": "6d 0h 59m"
     },
     "top_processes": [
         {
             "pid": 0,
             "name": "System Idle Process",
-            "cpu": 549.1
+            "cpu": 539.5
         },
         {
             "pid": 4,
             "name": "System",
-            "cpu": 98.1
+            "cpu": 98.8
         },
         {
             "pid": 2700,
             "name": "svchost.exe",
-            "cpu": 32.1
+            "cpu": 38.5
         },
         {
-            "pid": 3912,
-            "name": "Docker Desktop.exe",
-            "cpu": 27.5
+            "pid": 13504,
+            "name": "vmmemWSL",
+            "cpu": 21.4
         },
         {
             "pid": 2376,
             "name": "svchost.exe",
-            "cpu": 19.9
+            "cpu": 13.9
         }
     ]
 }
